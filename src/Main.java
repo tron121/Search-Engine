@@ -1,12 +1,10 @@
-import java.io.FileNotFoundException;
-import java.util.LinkedList;
-
-import static org.junit.Assert.fail;
-
 /**
  * Created by Ron on 12/4/2016.
  */
 
+import java.io.FileNotFoundException;
+import java.util.LinkedList;
+import static org.junit.Assert.fail;
 
 public class Main {
 
