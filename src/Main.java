@@ -16,10 +16,7 @@ public class Main {
 
     public static void startUp() {
         SearchEngine g;
-        try {
-            // set up all of your search engines with pages here
-            // rather than in the individual tests (or you will have
-            // to copy the exceptions code into the test classes)
+        try {           
             g = new SearchEngine(new LinkedList<String>());
             addPage(g, "PageFiles/goats.md");
             addPage(g, "PageFiles/aboutWPI.md");
