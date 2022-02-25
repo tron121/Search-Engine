@@ -1,10 +1,4 @@
-/*
- * If you are looking at this file before Thurs/Fri, the try/catch
- * statements won't make sense (unless you already know exceptions).
- * By Friday, we will cover those.  In the meantime, you can write
- * tests by creating your search engine classes in the Examples
- * constructor, as indicated by the comments.
- */
+
 
 import java.util.LinkedList;
 import java.util.Arrays;
