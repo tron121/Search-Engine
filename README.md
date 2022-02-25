@@ -10,6 +10,6 @@
 
 Written in Intellij IDE
 
-Dependencies: junit 4.12 and hamcrest core 1.3. 
+Dependencies: junit 4.12 and hamcrest-core 1.3. 
 
 
