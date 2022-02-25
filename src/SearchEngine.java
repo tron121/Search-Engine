@@ -1,7 +1,4 @@
-/* Starter file for homework 5 
- * 
- * The file is marked throughout with what you can, cannot, and should not need to edit.
- */
+// Search Engine
 
 import java.awt.*;
 import java.io.File;
@@ -15,8 +12,6 @@ import java.util.Scanner;
 class SearchEngine implements ISearchEngine {
     Scanner keyboard = new Scanner(System.in);
     SimpleMarkdownReader m = new SimpleMarkdownReader();
-
-    // you are welcome to replace the pages variable with your own data structures.
     private LinkedList<Webpage> pages;
     private Cache cache;
     private Sponsors sponsors;
